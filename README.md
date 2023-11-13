@@ -1,8 +1,3 @@
- Hi there 👋 
+ Hi there 👋 I'm Juris an ever evolving software developer!
 
- Check out my latest project setteam.net 
-
- 
-- 🔭 I’m currently working on updating my gitHub
-- 🌱 I’m currently learning -
---> 
+ Check out my latest project [setteam.net](https://github.com/half-cto/SetTeam_FrontEnd_public)
